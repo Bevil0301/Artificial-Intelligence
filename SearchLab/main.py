@@ -5,7 +5,7 @@ from choice_menu import ChoiceMenu
 import puzzle
 import vacuum
 from graphics import INK, MUTED, TEAL, WHITE, backdrop, box, card, heading, native_display
-from search import ALGORITHMS, Problem
+from algorithm import ALGORITHMS, Problem
 
 
 def play():
